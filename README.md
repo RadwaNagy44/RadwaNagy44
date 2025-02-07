@@ -1,8 +1,8 @@
-<h1 align="center">Hi , I'm Esraa Syam 🖤
-</br> </br><img align = "center" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/hi-hello.gif" width="160"> </h1>
+<h1 align="center">Hi , I'm Radwa Nagy🖤
+</br> </br><img align = "center" src="https://github.com/RadwaNagy44/RadwaNagy44/blob/main/stickers/hi-hello.gif" width="160"> </h1>
 
 
- ### <img  src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/toofio-pays.gif" width="8.5%">About me
+ ### <img  src="https://github.com/RadwaNagy44/RadwaNagy44/blob/main/stickers/toofio-pays.gif" width="8.5%">About me
 
 
 ---
@@ -15,15 +15,13 @@
 
 - 💻 I specialize in backend development using **Node.js** and database management with **Mongoose**. I love creating efficient, scalable, and maintainable backend systems.
 
-- 🏆 In addition to my backend development skills, I'm also a competitive programmer and enjoy solving challenging problems. You can check out some of my solutions and coding challenges on my **[codeforces profile](https://codeforces.com/profile/Sira)**
+- 📫 How to reach me **radwanagy561@gmail.com**
 
-- 📫 How to reach me **esraasyam15@gmail.com**
-
-- 🔭 You can look at my [Resume](https://drive.google.com/file/d/1sOIU7aq4by0LnyzxJMfFCFb6VbJqhb9u/view?usp=sharing) for more details about me 
+- 🔭 You can look at my [Resume](https://drive.google.com/file/d/1csXx8jdq7FbGzYgn2IU2yhKza7rGCnGL/view?usp=sharing) for more details about me 
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=EsraaSyam&label=Profile%20views&color=0e75b6&style=flat" alt="EsraaSyam" height=25px, width=160px/> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RadwaNagy44&label=Profile%20views&color=0e75b6&style=flat" alt="RadwaNagy44" height=25px, width=160px/> 
 </p>
 
 ---
@@ -31,15 +29,13 @@
 <h3 align="left"> Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/esraa-syam-232a8b240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="30" width="60" /></a>
-<a href="https://www.hackerrank.com/UGS_141198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Esraa syam" height="30" width="60" /></a>
-<a href="https://codeforces.com/profile/esraa_syam15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="esraa_syam15" height="30" width="30" /></a>
 <a href="https://leetcode.com/Esraa_Syam15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Esraa_Syam15" height="30" width="80" /></a>
-<!-- <img align="right" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/quack-quack-dance.gif" width = "180"/>  -->
+<!-- <img align="right" src="https://github.com/RadwaNagy44/RadwaNagy44/blob/main/quack-quack-dance.gif" width = "180"/>  -->
 
 ---
   ## 🏆 GitHub Trophies
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="EsraaSyam's Github Stats" src="https://github-profile-trophy.vercel.app/?username=EsraaSyam&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="250px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RadwaNagy44's Github Stats" src="https://github-profile-trophy.vercel.app/?username=RadwaNagy44&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="250px"/></a>
 
 ---
 
@@ -76,11 +72,11 @@
 <h4 align="left">📈 My GitHub Stats</42></p>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="EsraaSyam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RadwaNagy44's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RadwaNagy44&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsraaSyam&theme=chartreuse-dark&hide_border=true" alt="EsraaSyam" height="192px"/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="EsraaSyam's GitHub Stats" alt="EsraaSyam" height="192px"/>
+	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadwaNagy44&theme=chartreuse-dark&hide_border=true" alt="RadwaNagy44" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadwaNagy44&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="RadwaNagy44's GitHub Stats" alt="RadwaNagy44" height="192px"/>
   <br/>
 
 ---
@@ -94,7 +90,7 @@
 ---
 
 
-<h2> Thank you for your attention 🙏🏻 </br> </br>  <img align="center" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/Bye.gif" width = "200"/> </h2>
+<h2> Thank you for your attention 🙏🏻 </br> </br>  <img align="center" src="https://github.com/RadwaNagy44/RadwaNagy44/blob/main/stickers/Bye.gif" width = "200"/> </h2>
 
 
 													     
