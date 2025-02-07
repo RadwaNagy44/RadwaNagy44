@@ -28,8 +28,8 @@
 
 <h3 align="left"> Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/esraa-syam-232a8b240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="30" width="60" /></a>
-<a href="https://leetcode.com/Esraa_Syam15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Esraa_Syam15" height="30" width="80" /></a>
+<a href="https://www.linkedin.com/in/0radwanagy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/0radwanagy/" height="30" width="60" /></a>
+<a href="https://leetcode.com/u/radwa_nagy6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Radwa Nagy" height="30" width="80" /></a>
 <!-- <img align="right" src="https://github.com/RadwaNagy44/RadwaNagy44/blob/main/quack-quack-dance.gif" width = "180"/>  -->
 
 ---
